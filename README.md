@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ix_cGEO60Id32cAR2sKC145i1HEocU47/view?usp=drive_link](https://drive.google.com/file/d/1ix_cGEO60Id32cAR2sKC145i1HEocU47/view?usp=drive_link)
 
-- ⚡ Fun fact **Jobless**
+- ⚡ Fun fact **Since Most of my repositories related to Javascript and typescript are hidden(Freelance Projects), python dominates js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
